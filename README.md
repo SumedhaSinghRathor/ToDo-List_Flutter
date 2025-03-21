@@ -1,9 +1,4 @@
-<<<<<<< HEAD
 # ToDo-List_Flutter
-=======
-# todo_list
-
-A to-do list.
 
 ## Getting Started
 
